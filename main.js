@@ -9,3 +9,6 @@ loginBtn.addEventListener("click", function() {
     console.log("not");
   }
 })
+if ((usrName.value == "chaos24") && (password.value == "chaotic")) {
+  window.location.href = "https://somudro.netlify.app";
+}

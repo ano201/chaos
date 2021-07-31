@@ -14,4 +14,3 @@ function loadPage() {
    window.location.href = "main/mainpage.html";
   }
 }
-loadPage();

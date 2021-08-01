@@ -16,5 +16,7 @@ function loadPage() {
   }
 }
 */
-alert(usrName.value);
-alert(password.value);
+function my() {
+  alert(usrName.value);
+  alert(password.value);
+}

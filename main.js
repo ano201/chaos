@@ -9,8 +9,12 @@ loginBtn.addEventListener("click", function() {
     console.log("not");
   }
 })
+/*
 function loadPage() {
   if ((usrName.value == "chaos24") && (password.value == "chaotic")) {
    window.location.href = "main/mainpage.html";
   }
 }
+*/
+alert(usrName.value);
+alert(password.value);

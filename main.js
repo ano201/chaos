@@ -8,7 +8,7 @@ loginBtn.addEventListener("click", function() {
     localStorage.setItem('password', password.value);
     toMainPage();
   } else {
-    alert('Your entered information was not found in our database. Please re-enter yor information.')
+    alert('Your entered information was not found in our database. Please re-enter your information.')
     usrName.value = "";
     password.value = "";
   }

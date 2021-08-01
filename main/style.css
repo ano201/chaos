@@ -14,11 +14,11 @@ h2::before{
   content: attr(data-text);
   height: 100%;
   overflow: hidden;
-  color: red;
+  color: rgba(200, 0, 0, 1);
   position: absolute;
-  border-right: 4px solid red;
+  border-right: 4px solid rgba(200, 0, 0, 1);
   white-space: nowrap;
-  animation: ene 4s linear infinite;
+  animation: ene 4s infinite;
 }
 @keyframes ene{
   0%,100%{

@@ -5,6 +5,7 @@ body {
 .header-text-container{
   width: 150px;
   margin: auto;
+  position: relative;
 }
 h2{
   position: relative;

@@ -23,4 +23,3 @@ logout.addEventListener("click", function() {
   localStorage.removeItem('name');
   window.location.reload();
 })
-console.log(localStorage.getItem('name'));

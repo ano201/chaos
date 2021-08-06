@@ -8,7 +8,7 @@ loginBtn.addEventListener("click", function() {
     localStorage.setItem('usrName', usrName.value);
     localStorage.setItem('password', password.value);
     localStorage.setItem('name', "Test Id");
-    localStorage.setItem('refferId', "69696969");
+    localStorage.setItem('refferId', "undefined");
     alert("please reload your browser...")
 
   } else {

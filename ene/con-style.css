@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(90deg , #4286f5 , skyblue);
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+ul li{
+    font-size: 20px;
+}
